@@ -43,7 +43,8 @@
   * Results/Screenshots/Conclusions;
 
 ## Evaluation :
-&ensp; &ensp; __1. The project should be located in the same repository as the previous lab;__
+&ensp; &ensp; __1. The project should be located in the same repository as the previous lab:__
+  * Don't use naming conventions based on the Design Patterns or Laboratory Work;
 
 &ensp; &ensp; __2. It is allowed to use libs, but only for facilities like:__
   * Text processing;
