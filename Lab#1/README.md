@@ -30,15 +30,17 @@ __3. Define the main involved classes and think about what instantiation mechani
 __4. Based on the previous point, implement atleast 3 creational design patterns in your project.__
 
 ## Evaluation:
-__1. The project should be located in a repository on a git hosting service (e.g. Github, Gitlab, BitBucket etc.).__
+__1. The project should be located in a repository on a git hosting service (e.g. Github, Gitlab, BitBucket etc.):__
 
-__2. It should contain an explanation in the form of a README file or a LaTeX report with the following standard structure:__
+  * You only need to have one project
+  * You can have separate modules that depend on each other
+  * You should separate the project into modules / packages based on the responsibilities:
+    * client
+    * domain
+      * factory
+      * models (POJO ,DTO, DAO ,Entity)
 
-  * Topic of the laboratory work
-  * Author
-  * Introduction/Theory
-  * Implementation & Explanation (you can include code snippets as well)
-  * Results/Screenshots/Conclusions
+__2. It should contain an explanation in the form of a README file or a LaTeX report with the standard structure from the TEMPLATE.md file.__
 
 __3. In order to make the evaluation as optimal as possible we will have a quiz on this topic.__
 
