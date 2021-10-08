@@ -51,3 +51,5 @@ __5. Submit the repository URL on ELSE.__
 __7. The deadline for this assignment is 03/10/2021.__
 
 __8. After the deadline for each weak the max grade decreases by 1.__
+
+![Screenshot](./img/screen0.png)
