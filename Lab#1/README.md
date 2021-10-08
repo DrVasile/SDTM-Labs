@@ -53,3 +53,7 @@ __7. The deadline for this assignment is 03/10/2021.__
 __8. After the deadline for each weak the max grade decreases by 1.__
 
 ![Screenshot](./img/screen0.png)
+
+![Screenshot](./img/screen0.png)
+
+![Screenshot](./img/screen0.png)
