@@ -38,7 +38,7 @@ __1. The project should be located in a repository on a git hosting service (e.g
     * client
     * domain
       * factory
-      * models (POJO ,DTO, DAO ,Entity)
+      * models
 
 __2. It should contain an explanation in the form of a README file or a LaTeX report with the standard structure from the TEMPLATE.md file.__
 
