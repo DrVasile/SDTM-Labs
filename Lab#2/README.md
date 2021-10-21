@@ -63,7 +63,7 @@
 
 &ensp; &ensp; __5. Submit the repository URL on ELSE.__
 
-&ensp; &ensp; __6. The deadline for this assignment is TBA.__
+&ensp; &ensp; __6. The deadline for this assignment is 14/11/2021.__
 
 &ensp; &ensp; __7. If the repositories obey all the requirements and also the quiz has been done in time there is no need to present the work personally.__
 
